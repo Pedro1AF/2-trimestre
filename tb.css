@@ -1,0 +1,28 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #cfcece; /* cinza claro */
+}
+
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #0f0f0f; 
+    color: white;
+}
+
+.tb1{
+    margin-top: 20px;
+    padding: 15px;
+}
+
+.tb1{
+    margin-top: 20px;
+    padding: 15px;
+}
+
